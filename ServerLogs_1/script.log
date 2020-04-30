@@ -1,5 +1,5 @@
 ---------------------------------------------
-Log D:\DayZServers\TheCommunity_enoch\TheCommunityServer\script_2020-04-30_09-16-02.log started at 30.04. 09:16:02
+Log D:\DayZServers\TheCommunity_enoch\TheCommunityServer\script_2020-04-30_12-02-46.log started at 30.04. 12:02:46
 
 SCRIPT       : Registered 249 temporary action enum(s), UAN==249
 SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
@@ -4268,73 +4268,73 @@ SCRIPT       : [DonkeyDebug]init.c CreateLandObject type:BBP_Cement_Mixer
 SCRIPT       : [DonkeyDebug]init.c CreateLandObject type:BBP_Cement_Mixer
 SCRIPT       : [DonkeyDebug]init.c CreateLandObject type:BBP_Cement_Mixer
 SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b93a80>
-SCRIPT       : int slot_index = 0
-SCRIPT       : Slot slot =   Slot<59c02670>
-SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b93a80>
-SCRIPT       : int slot_index = 2
-SCRIPT       : Slot slot =   Slot<59c03ef0>
-SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b94090>
+SCRIPT       : GardenBase garden = Gardenbox<597a2840>
 SCRIPT       : int slot_index = 1
-SCRIPT       : Slot slot =   Slot<59c03bf0>
+SCRIPT       : Slot slot =   Slot<596ff560>
 SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b94090>
+SCRIPT       : GardenBase garden = Gardenbox<597a2840>
 SCRIPT       : int slot_index = 0
-SCRIPT       : Slot slot =   Slot<59c03b70>
+SCRIPT       : Slot slot =   Slot<596ff7e0>
 SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b94090>
+SCRIPT       : GardenBase garden = Gardenbox<597a2840>
 SCRIPT       : int slot_index = 2
-SCRIPT       : Slot slot =   Slot<59c02770>
+SCRIPT       : Slot slot =   Slot<59700960>
 SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b55840>
+SCRIPT       : GardenBase garden = Gardenbox<597a7710>
 SCRIPT       : int slot_index = 0
-SCRIPT       : Slot slot =   Slot<59c04a70>
+SCRIPT       : Slot slot =   Slot<597019e0>
 SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b55840>
-SCRIPT       : int slot_index = 1
-SCRIPT       : Slot slot =   Slot<59c05f70>
-SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b57690>
-SCRIPT       : int slot_index = 0
-SCRIPT       : Slot slot =   Slot<59c06070>
-SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b57690>
-SCRIPT       : int slot_index = 1
-SCRIPT       : Slot slot =   Slot<59c05c70>
-SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b57690>
+SCRIPT       : GardenBase garden = Gardenbox<597a7710>
 SCRIPT       : int slot_index = 2
-SCRIPT       : Slot slot =   Slot<59c053f0>
+SCRIPT       : Slot slot =   Slot<597014e0>
 SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenpot<59b5b330>
+SCRIPT       : GardenBase garden = Gardenbox<59767680>
 SCRIPT       : int slot_index = 0
-SCRIPT       : Slot slot =   Slot<59c04770>
+SCRIPT       : Slot slot =   Slot<59702c60>
 SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b5a710>
-SCRIPT       : int slot_index = 0
-SCRIPT       : Slot slot =   Slot<59c05170>
-SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b5a710>
-SCRIPT       : int slot_index = 2
-SCRIPT       : Slot slot =   Slot<59c04570>
-SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b5a710>
+SCRIPT       : GardenBase garden = Gardenbox<59767680>
 SCRIPT       : int slot_index = 1
-SCRIPT       : Slot slot =   Slot<59c044f0>
+SCRIPT       : Slot slot =   Slot<59702560>
 SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b582b0>
-SCRIPT       : int slot_index = 1
-SCRIPT       : Slot slot =   Slot<59c06a70>
-SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b582b0>
-SCRIPT       : int slot_index = 0
-SCRIPT       : Slot slot =   Slot<59c08070>
-SCRIPT       : Plant - OnStoreLoad - 
-SCRIPT       : GardenBase garden = Gardenbox<59b582b0>
+SCRIPT       : GardenBase garden = Gardenbox<59767680>
 SCRIPT       : int slot_index = 2
-SCRIPT       : Slot slot =   Slot<59c07070>
+SCRIPT       : Slot slot =   Slot<597029e0>
+SCRIPT       : Plant - OnStoreLoad - 
+SCRIPT       : GardenBase garden = Gardenbox<5976a700>
+SCRIPT       : int slot_index = 0
+SCRIPT       : Slot slot =   Slot<59701560>
+SCRIPT       : Plant - OnStoreLoad - 
+SCRIPT       : GardenBase garden = Gardenbox<5976a700>
+SCRIPT       : int slot_index = 2
+SCRIPT       : Slot slot =   Slot<59701a60>
+SCRIPT       : Plant - OnStoreLoad - 
+SCRIPT       : GardenBase garden = Gardenbox<5976a700>
+SCRIPT       : int slot_index = 1
+SCRIPT       : Slot slot =   Slot<597030e0>
+SCRIPT       : Plant - OnStoreLoad - 
+SCRIPT       : GardenBase garden = Gardenbox<59767070>
+SCRIPT       : int slot_index = 1
+SCRIPT       : Slot slot =   Slot<59704260>
+SCRIPT       : Plant - OnStoreLoad - 
+SCRIPT       : GardenBase garden = Gardenbox<59767070>
+SCRIPT       : int slot_index = 0
+SCRIPT       : Slot slot =   Slot<597033e0>
+SCRIPT       : Plant - OnStoreLoad - 
+SCRIPT       : GardenBase garden = Gardenbox<59767070>
+SCRIPT       : int slot_index = 2
+SCRIPT       : Slot slot =   Slot<59703e60>
+SCRIPT       : Plant - OnStoreLoad - 
+SCRIPT       : GardenBase garden = Gardenbox<5976c550>
+SCRIPT       : int slot_index = 0
+SCRIPT       : Slot slot =   Slot<59703660>
+SCRIPT       : Plant - OnStoreLoad - 
+SCRIPT       : GardenBase garden = Gardenbox<5976c550>
+SCRIPT       : int slot_index = 1
+SCRIPT       : Slot slot =   Slot<597049e0>
+SCRIPT       : Plant - OnStoreLoad - 
+SCRIPT       : GardenBase garden = Gardenpot<597694d0>
+SCRIPT       : int slot_index = 0
+SCRIPT       : Slot slot =   Slot<597045e0>
 SCRIPT       : Magazine mag = NULL
 SCRIPT       : Magazine mag = NULL
 SCRIPT       : Magazine mag = NULL
@@ -4344,36 +4344,44 @@ SCRIPT       : Deleted object alp_Barrel_Yellow
 SCRIPT       : Deleted object alp_Barrel_Yellow
 SCRIPT       : Deleted object alp_Barrel_Yellow
 SCRIPT       : Deleted object alp_Barrel_Yellow
+SCRIPT       : Deleted object Hatchback_02_Black
 SCRIPT       : Deleted object Wreck_Mi8
 SCRIPT       : Deleted object Wreck_UH1Y
 SCRIPT       : Deleted object hardigg_Mung
+SCRIPT       : Deleted object Wreck_Mi8
 SCRIPT       : Deleted object Hatchback_02_Blue
 SCRIPT       : Deleted object Hatchback_02
-SCRIPT       : Deleted object CivilianSedan_Black
+SCRIPT       : Deleted object Hatchback_02
+SCRIPT       : Deleted object OffroadHatchback_Blue
+SCRIPT       : Deleted object Wreck_UH1Y
+SCRIPT       : Deleted object hardigg_Mung
+SCRIPT       : Deleted object Wreck_Mi8
+SCRIPT       : Deleted object Wreck_UH1Y
+SCRIPT       : Deleted object hardigg_Mung
 SCRIPT       : ALPMS: spawning mission: trader1
-SCRIPT       : ALPMS: trying spawning on position: <6259.740234, 383.092010, 3988.419922>
-SCRIPT       : ALPMS: spawning mission on position: <6259.740234, 383.092010, 3988.419922> was successfull
-SCRIPT       : ALPMS: mission trader1 - <6259.740234, 383.092010, 3988.419922> - spawning loot
-SCRIPT       : ALPMS: mission trader1 - <6259.740234, 383.092010, 3988.419922> - loot spawned successfully
-SCRIPT       : ALPMS: mission trader1 - <6259.740234, 383.092010, 3988.419922> - spawning structures
-SCRIPT       : ALPMS: mission trader1 - <6259.740234, 383.092010, 3988.419922> - structures spawned successfully
-SCRIPT       : ALPMS: mission trader1 - <6259.740234, 383.092010, 3988.419922> - spawning vehicles
-SCRIPT       : ALPMS: mission trader1 - <6259.740234, 383.092010, 3988.419922> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission trader1 - <6259.740234, 383.092010, 3988.419922> - spawning NPC
-SCRIPT       : ALPMS: mission trader1 - <6259.740234, 383.092010, 3988.419922> - NPC spawned successfully
-SCRIPT       : ALPMS: mission trader1 was spawned on : <6259.740234, 383.092010, 3988.419922>
+SCRIPT       : ALPMS: trying spawning on position: <9267.290039, 206.362000, 10751.799805>
+SCRIPT       : ALPMS: spawning mission on position: <9267.290039, 206.362000, 10751.799805> was successfull
+SCRIPT       : ALPMS: mission trader1 - <9267.290039, 206.362000, 10751.799805> - spawning loot
+SCRIPT       : ALPMS: mission trader1 - <9267.290039, 206.362000, 10751.799805> - loot spawned successfully
+SCRIPT       : ALPMS: mission trader1 - <9267.290039, 206.362000, 10751.799805> - spawning structures
+SCRIPT       : ALPMS: mission trader1 - <9267.290039, 206.362000, 10751.799805> - structures spawned successfully
+SCRIPT       : ALPMS: mission trader1 - <9267.290039, 206.362000, 10751.799805> - spawning vehicles
+SCRIPT       : ALPMS: mission trader1 - <9267.290039, 206.362000, 10751.799805> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission trader1 - <9267.290039, 206.362000, 10751.799805> - spawning NPC
+SCRIPT       : ALPMS: mission trader1 - <9267.290039, 206.362000, 10751.799805> - NPC spawned successfully
+SCRIPT       : ALPMS: mission trader1 was spawned on : <9267.290039, 206.362000, 10751.799805>
 SCRIPT       : ALPMS: spawning mission: trader1
-SCRIPT       : ALPMS: trying spawning on position: <11383.000000, 183.979004, 9616.160156>
-SCRIPT       : ALPMS: spawning mission on position: <11383.000000, 183.979004, 9616.160156> was successfull
-SCRIPT       : ALPMS: mission trader1 - <11383.000000, 183.979004, 9616.160156> - spawning loot
-SCRIPT       : ALPMS: mission trader1 - <11383.000000, 183.979004, 9616.160156> - loot spawned successfully
-SCRIPT       : ALPMS: mission trader1 - <11383.000000, 183.979004, 9616.160156> - spawning structures
-SCRIPT       : ALPMS: mission trader1 - <11383.000000, 183.979004, 9616.160156> - structures spawned successfully
-SCRIPT       : ALPMS: mission trader1 - <11383.000000, 183.979004, 9616.160156> - spawning vehicles
-SCRIPT       : ALPMS: mission trader1 - <11383.000000, 183.979004, 9616.160156> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission trader1 - <11383.000000, 183.979004, 9616.160156> - spawning NPC
-SCRIPT       : ALPMS: mission trader1 - <11383.000000, 183.979004, 9616.160156> - NPC spawned successfully
-SCRIPT       : ALPMS: mission trader1 was spawned on : <11383.000000, 183.979004, 9616.160156>
+SCRIPT       : ALPMS: trying spawning on position: <908.554016, 244.735992, 5478.689941>
+SCRIPT       : ALPMS: spawning mission on position: <908.554016, 244.735992, 5478.689941> was successfull
+SCRIPT       : ALPMS: mission trader1 - <908.554016, 244.735992, 5478.689941> - spawning loot
+SCRIPT       : ALPMS: mission trader1 - <908.554016, 244.735992, 5478.689941> - loot spawned successfully
+SCRIPT       : ALPMS: mission trader1 - <908.554016, 244.735992, 5478.689941> - spawning structures
+SCRIPT       : ALPMS: mission trader1 - <908.554016, 244.735992, 5478.689941> - structures spawned successfully
+SCRIPT       : ALPMS: mission trader1 - <908.554016, 244.735992, 5478.689941> - spawning vehicles
+SCRIPT       : ALPMS: mission trader1 - <908.554016, 244.735992, 5478.689941> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission trader1 - <908.554016, 244.735992, 5478.689941> - spawning NPC
+SCRIPT       : ALPMS: mission trader1 - <908.554016, 244.735992, 5478.689941> - NPC spawned successfully
+SCRIPT       : ALPMS: mission trader1 was spawned on : <908.554016, 244.735992, 5478.689941>
 SCRIPT       : ALPMS: spawning mission: rNadborS
 SCRIPT       : ALPMS: trying spawning on position: <7348.899902, 279.154358, 2647.629883>
 SCRIPT       : ALPMS: spawning mission on position: <7348.899902, 279.154358, 2647.629883> was successfull
@@ -4387,17 +4395,41 @@ SCRIPT       : ALPMS: mission rNadborS - <7348.899902, 279.154358, 2647.629883> 
 SCRIPT       : ALPMS: mission rNadborS - <7348.899902, 279.154358, 2647.629883> - NPC spawned successfully
 SCRIPT       : ALPMS: mission rNadborS was spawned on : <7348.899902, 279.154358, 2647.629883>
 SCRIPT       : ALPMS: spawning mission: rHeliCrash
-SCRIPT       : ALPMS: trying spawning on position: <7938.515137, 280.885376, 6592.683594>
-SCRIPT       : ALPMS: spawning mission on position: <7938.515137, 280.885376, 6592.683594> was successfull
-SCRIPT       : ALPMS: mission rHeliCrash - <7938.515137, 280.885376, 6592.683594> - spawning loot
-SCRIPT       : ALPMS: mission rHeliCrash - <7938.515137, 280.885376, 6592.683594> - loot spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <7938.515137, 280.885376, 6592.683594> - spawning structures
-SCRIPT       : ALPMS: mission rHeliCrash - <7938.515137, 280.885376, 6592.683594> - structures spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <7938.515137, 280.885376, 6592.683594> - spawning vehicles
-SCRIPT       : ALPMS: mission rHeliCrash - <7938.515137, 280.885376, 6592.683594> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <7938.515137, 280.885376, 6592.683594> - spawning NPC
-SCRIPT       : ALPMS: mission rHeliCrash - <7938.515137, 280.885376, 6592.683594> - NPC spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <7938.515137, 280.885376, 6592.683594>
+SCRIPT       : ALPMS: trying spawning on position: <6369.329102, 299.746216, 6150.516602>
+SCRIPT       : ALPMS: spawning mission on position: <6369.329102, 299.746216, 6150.516602> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <6369.329102, 299.746216, 6150.516602> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <6369.329102, 299.746216, 6150.516602> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <6369.329102, 299.746216, 6150.516602> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <6369.329102, 299.746216, 6150.516602> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <6369.329102, 299.746216, 6150.516602> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <6369.329102, 299.746216, 6150.516602> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <6369.329102, 299.746216, 6150.516602> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <6369.329102, 299.746216, 6150.516602> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <6369.329102, 299.746216, 6150.516602>
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <11390.188477, 297.712372, 5130.928223>
+SCRIPT       : ALPMS: spawning mission on position: <11390.188477, 297.712372, 5130.928223> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <11390.188477, 297.712372, 5130.928223> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <11390.188477, 297.712372, 5130.928223> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <11390.188477, 297.712372, 5130.928223> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <11390.188477, 297.712372, 5130.928223> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <11390.188477, 297.712372, 5130.928223> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <11390.188477, 297.712372, 5130.928223> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <11390.188477, 297.712372, 5130.928223> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <11390.188477, 297.712372, 5130.928223> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <11390.188477, 297.712372, 5130.928223>
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <8241.619141, 283.332306, 6025.999512>
+SCRIPT       : ALPMS: spawning mission on position: <8241.619141, 283.332306, 6025.999512> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <8241.619141, 283.332306, 6025.999512> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <8241.619141, 283.332306, 6025.999512> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <8241.619141, 283.332306, 6025.999512> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <8241.619141, 283.332306, 6025.999512> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <8241.619141, 283.332306, 6025.999512> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <8241.619141, 283.332306, 6025.999512> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <8241.619141, 283.332306, 6025.999512> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <8241.619141, 283.332306, 6025.999512> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <8241.619141, 283.332306, 6025.999512>
 SCRIPT       : ALPMS: spawning mission: rHeliCrash
 SCRIPT       : ALPMS: trying spawning on position: <10392.649414, 211.855301, 6202.329102>
 SCRIPT       : ALPMS: spawning mission on position: <10392.649414, 211.855301, 6202.329102> was successfull
@@ -4410,115 +4442,7 @@ SCRIPT       : ALPMS: mission rHeliCrash - <10392.649414, 211.855301, 6202.32910
 SCRIPT       : ALPMS: mission rHeliCrash - <10392.649414, 211.855301, 6202.329102> - spawning NPC
 SCRIPT       : ALPMS: mission rHeliCrash - <10392.649414, 211.855301, 6202.329102> - NPC spawned successfully
 SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <10392.649414, 211.855301, 6202.329102>
-SCRIPT       : ALPMS: spawning mission: rHeliCrash
-SCRIPT       : ALPMS: trying spawning on position: <8546.589844, 265.204651, 8372.402344>
-SCRIPT       : ALPMS: spawning mission on position: <8546.589844, 265.204651, 8372.402344> was successfull
-SCRIPT       : ALPMS: mission rHeliCrash - <8546.589844, 265.204651, 8372.402344> - spawning loot
-SCRIPT       : ALPMS: mission rHeliCrash - <8546.589844, 265.204651, 8372.402344> - loot spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <8546.589844, 265.204651, 8372.402344> - spawning structures
-SCRIPT       : ALPMS: mission rHeliCrash - <8546.589844, 265.204651, 8372.402344> - structures spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <8546.589844, 265.204651, 8372.402344> - spawning vehicles
-SCRIPT       : ALPMS: mission rHeliCrash - <8546.589844, 265.204651, 8372.402344> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <8546.589844, 265.204651, 8372.402344> - spawning NPC
-SCRIPT       : ALPMS: mission rHeliCrash - <8546.589844, 265.204651, 8372.402344> - NPC spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <8546.589844, 265.204651, 8372.402344>
-SCRIPT       : Magazine mag = NULL
-SCRIPT       : Magazine mag = NULL
-SCRIPT       : ALPMS: spawning mission: caVehicles
-SCRIPT       : ALPMS: trying spawning on position: <12065.700195, 286.215851, 6565.020020>
-SCRIPT       : ALPMS: spawning mission on position: <12065.700195, 286.215851, 6565.020020> was successfull
-SCRIPT       : ALPMS: mission caVehicles - <12065.700195, 286.215851, 6565.020020> - spawning loot
-SCRIPT       : ALPMS: mission caVehicles - <12065.700195, 286.215851, 6565.020020> - loot spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <12065.700195, 286.215851, 6565.020020> - spawning structures
-SCRIPT       : ALPMS: mission caVehicles - <12065.700195, 286.215851, 6565.020020> - structures spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <12065.700195, 286.215851, 6565.020020> - spawning vehicles
-SCRIPT       : ALPMS: mission caVehicles - <12065.700195, 286.215851, 6565.020020> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <12065.700195, 286.215851, 6565.020020> - spawning NPC
-SCRIPT       : ALPMS: mission caVehicles - <12065.700195, 286.215851, 6565.020020> - NPC spawned successfully
-SCRIPT       : ALPMS: mission caVehicles was spawned on : <12065.700195, 286.215851, 6565.020020>
-SCRIPT       : ALPMS: spawning mission: caVehicles
-SCRIPT       : ALPMS: trying spawning on position: <11925.000000, 302.406647, 5275.759766>
-SCRIPT       : ALPMS: spawning mission on position: <11925.000000, 302.406647, 5275.759766> was successfull
-SCRIPT       : ALPMS: mission caVehicles - <11925.000000, 302.406647, 5275.759766> - spawning loot
-SCRIPT       : ALPMS: mission caVehicles - <11925.000000, 302.406647, 5275.759766> - loot spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <11925.000000, 302.406647, 5275.759766> - spawning structures
-SCRIPT       : ALPMS: mission caVehicles - <11925.000000, 302.406647, 5275.759766> - structures spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <11925.000000, 302.406647, 5275.759766> - spawning vehicles
-SCRIPT       : ALPMS: mission caVehicles - <11925.000000, 302.406647, 5275.759766> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <11925.000000, 302.406647, 5275.759766> - spawning NPC
-SCRIPT       : ALPMS: mission caVehicles - <11925.000000, 302.406647, 5275.759766> - NPC spawned successfully
-SCRIPT       : ALPMS: mission caVehicles was spawned on : <11925.000000, 302.406647, 5275.759766>
-SCRIPT       : ALPMS: spawning mission: caVehicles
-SCRIPT       : ALPMS: trying spawning on position: <3076.969971, 204.907944, 8011.600098>
-SCRIPT       : ALPMS: spawning mission on position: <3076.969971, 204.907944, 8011.600098> was successfull
-SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - spawning loot
-SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - loot spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - spawning structures
-SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - structures spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - spawning vehicles
-SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - spawning NPC
-SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - NPC spawned successfully
-SCRIPT       : ALPMS: mission caVehicles was spawned on : <3076.969971, 204.907944, 8011.600098>
-SCRIPT       : ALPMS: spawning mission: caVehicles
-SCRIPT       : ALPMS: trying spawning on position: <2920.090088, 387.620148, 5197.149902>
-SCRIPT       : ALPMS: spawning mission on position: <2920.090088, 387.620148, 5197.149902> was successfull
-SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - spawning loot
-SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - loot spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - spawning structures
-SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - structures spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - spawning vehicles
-SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - spawning NPC
-SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - NPC spawned successfully
-SCRIPT       : ALPMS: mission caVehicles was spawned on : <2920.090088, 387.620148, 5197.149902>
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.10379 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.40329 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.7028 ) 0 -> 0
-SCRIPT       : ALPMS: spawning mission: rHeliCrash
-SCRIPT       : ALPMS: trying spawning on position: <10772.458984, 226.524460, 7141.783691>
-SCRIPT       : ALPMS: spawning mission on position: <10772.458984, 226.524460, 7141.783691> was successfull
-SCRIPT       : ALPMS: mission rHeliCrash - <10772.458984, 226.524460, 7141.783691> - spawning loot
-SCRIPT       : ALPMS: mission rHeliCrash - <10772.458984, 226.524460, 7141.783691> - loot spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <10772.458984, 226.524460, 7141.783691> - spawning structures
-SCRIPT       : ALPMS: mission rHeliCrash - <10772.458984, 226.524460, 7141.783691> - structures spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <10772.458984, 226.524460, 7141.783691> - spawning vehicles
-SCRIPT       : ALPMS: mission rHeliCrash - <10772.458984, 226.524460, 7141.783691> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <10772.458984, 226.524460, 7141.783691> - spawning NPC
-SCRIPT       : ALPMS: mission rHeliCrash - <10772.458984, 226.524460, 7141.783691> - NPC spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <10772.458984, 226.524460, 7141.783691>
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.00229 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.30178 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.60127 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.90077 ) 0 -> 0
-SCRIPT       : ALPMS: spawning mission: rHeliCrash
-SCRIPT       : ALPMS: trying spawning on position: <10770.838867, 314.381775, 5033.983398>
-SCRIPT       : ALPMS: spawning mission on position: <10770.838867, 314.381775, 5033.983398> was successfull
-SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - spawning loot
-SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - loot spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - spawning structures
-SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - structures spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - spawning vehicles
-SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - spawning NPC
-SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - NPC spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <10770.838867, 314.381775, 5033.983398>
-SCRIPT       : Enoch::Weather::Overcast:: ( 9.17606 )  overcast: 0
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 9.17606 ) 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.20026 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.49975 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.79924 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 10.0987 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 10.3982 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain:: ( 10.6977 ) 0
-SCRIPT       : Enoch::Weather::Rain:: ( 10.8144 ) 0.304908
-SCRIPT       : Enoch::Weather::Overcast:: ( 10.8219 )  overcast: 0.603635
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 10.8219 ) 0.289891
-SCRIPT       : Enoch::Weather::Rain:: ( 10.9311 ) 0.071456
-SCRIPT       : Enoch::Weather::Rain:: ( 11.0312 ) 0.311255
-SCRIPT       : Enoch::Weather::Rain:: ( 11.1596 ) 0.290832
-SCRIPT       : Enoch::Weather::Rain:: ( 11.4723 ) 0
-SCRIPT       : SERVER MESSAGE: You are playing on Vagrants Paradise. Don't be a dick, don't glitch or hack.
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.02211 ) 0 -> 0
 SCRIPT       : ALPMS: spawning mission: caVehicles
 SCRIPT       : ALPMS: trying spawning on position: <11640.799805, 203.590775, 8221.740234>
 SCRIPT       : ALPMS: spawning mission on position: <11640.799805, 203.590775, 8221.740234> was successfull
@@ -4531,72 +4455,135 @@ SCRIPT       : ALPMS: mission caVehicles - <11640.799805, 203.590775, 8221.74023
 SCRIPT       : ALPMS: mission caVehicles - <11640.799805, 203.590775, 8221.740234> - spawning NPC
 SCRIPT       : ALPMS: mission caVehicles - <11640.799805, 203.590775, 8221.740234> - NPC spawned successfully
 SCRIPT       : ALPMS: mission caVehicles was spawned on : <11640.799805, 203.590775, 8221.740234>
-SCRIPT       : Enoch::Weather::Rain:: ( 11.614 ) 0.689422
-SCRIPT       : Enoch::Weather::Rain:: ( 11.7674 ) 0.58518
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 11.8808 ) 0.467812 -> 0.847267
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 12.0292 ) 0.847267 -> 0.901608
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 12.1342 ) 0.899864 -> 0.999884
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 12.3243 ) 0.999884 -> 0.968645
-SCRIPT       : Enoch::Weather::Overcast:: ( 12.4456 )  overcast: 0.941185
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 12.4456 ) 0.978184
-SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 12.4844 ) 0.971251 -> 0.869039
-SCRIPT       : Enoch::Weather::Rain:: ( 12.6428 ) 0.869283
-SCRIPT       : Enoch::Weather::Rain:: ( 12.7562 ) 0.698979
-SCRIPT       : Enoch::Weather::Rain:: ( 12.8612 ) 0.734654
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 13.0163 ) 0.223027 -> 0
-SCRIPT       : SERVER MESSAGE: Are you still alive? Keep alive our server too. Support our server through donations if you like:)
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 13.3158 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 13.6153 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 13.9148 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 14.2142 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 14.5137 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 14.8132 ) 0 -> 0
+SCRIPT       : ALPMS: spawning mission: caVehicles
+SCRIPT       : ALPMS: trying spawning on position: <2920.090088, 387.620148, 5197.149902>
+SCRIPT       : ALPMS: spawning mission on position: <2920.090088, 387.620148, 5197.149902> was successfull
+SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - spawning loot
+SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - loot spawned successfully
+SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - spawning structures
+SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - structures spawned successfully
+SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - spawning vehicles
+SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - spawning NPC
+SCRIPT       : ALPMS: mission caVehicles - <2920.090088, 387.620148, 5197.149902> - NPC spawned successfully
+SCRIPT       : ALPMS: mission caVehicles was spawned on : <2920.090088, 387.620148, 5197.149902>
+SCRIPT       : ALPMS: spawning mission: caVehicles
+SCRIPT       : ALPMS: trying spawning on position: <3076.969971, 204.907944, 8011.600098>
+SCRIPT       : ALPMS: spawning mission on position: <3076.969971, 204.907944, 8011.600098> was successfull
+SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - spawning loot
+SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - loot spawned successfully
+SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - spawning structures
+SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - structures spawned successfully
+SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - spawning vehicles
+SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - spawning NPC
+SCRIPT       : ALPMS: mission caVehicles - <3076.969971, 204.907944, 8011.600098> - NPC spawned successfully
+SCRIPT       : ALPMS: mission caVehicles was spawned on : <3076.969971, 204.907944, 8011.600098>
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.32163 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 7.61451 )  overcast: 0
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 7.61451 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.62114 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.92063 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.22012 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.51961 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.8191 ) 0 -> 0
 SCRIPT       : ALPMS: spawning mission: rHeliCrash
-SCRIPT       : ALPMS: trying spawning on position: <6868.194824, 377.604889, 4171.091797>
-SCRIPT       : ALPMS: spawning mission on position: <6868.194824, 377.604889, 4171.091797> was successfull
-SCRIPT       : ALPMS: mission rHeliCrash - <6868.194824, 377.604889, 4171.091797> - spawning loot
-SCRIPT       : ALPMS: mission rHeliCrash - <6868.194824, 377.604889, 4171.091797> - loot spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <6868.194824, 377.604889, 4171.091797> - spawning structures
-SCRIPT       : ALPMS: mission rHeliCrash - <6868.194824, 377.604889, 4171.091797> - structures spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <6868.194824, 377.604889, 4171.091797> - spawning vehicles
-SCRIPT       : ALPMS: mission rHeliCrash - <6868.194824, 377.604889, 4171.091797> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <6868.194824, 377.604889, 4171.091797> - spawning NPC
-SCRIPT       : ALPMS: mission rHeliCrash - <6868.194824, 377.604889, 4171.091797> - NPC spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <6868.194824, 377.604889, 4171.091797>
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 15.1127 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Overcast:: ( 15.1528 )  overcast: 0.0387738
-SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 15.1528 ) 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 15.4122 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 15.7117 ) 0 -> 0
-SCRIPT       : ALPMS: spawning mission: rHeliCrash
-SCRIPT       : ALPMS: trying spawning on position: <7512.816406, 256.511261, 7044.394531>
-SCRIPT       : ALPMS: spawning mission on position: <7512.816406, 256.511261, 7044.394531> was successfull
-SCRIPT       : ALPMS: mission rHeliCrash - <7512.816406, 256.511261, 7044.394531> - spawning loot
-SCRIPT       : ALPMS: mission rHeliCrash - <7512.816406, 256.511261, 7044.394531> - loot spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <7512.816406, 256.511261, 7044.394531> - spawning structures
-SCRIPT       : ALPMS: mission rHeliCrash - <7512.816406, 256.511261, 7044.394531> - structures spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <7512.816406, 256.511261, 7044.394531> - spawning vehicles
-SCRIPT       : ALPMS: mission rHeliCrash - <7512.816406, 256.511261, 7044.394531> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <7512.816406, 256.511261, 7044.394531> - spawning NPC
-SCRIPT       : ALPMS: mission rHeliCrash - <7512.816406, 256.511261, 7044.394531> - NPC spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <7512.816406, 256.511261, 7044.394531>
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 16.0112 ) 0 -> 0
+SCRIPT       : ALPMS: trying spawning on position: <4607.828125, 334.236877, 6965.809570>
+SCRIPT       : ALPMS: spawning mission on position: <4607.828125, 334.236877, 6965.809570> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <4607.828125, 334.236877, 6965.809570> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <4607.828125, 334.236877, 6965.809570> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <4607.828125, 334.236877, 6965.809570> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <4607.828125, 334.236877, 6965.809570> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <4607.828125, 334.236877, 6965.809570> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <4607.828125, 334.236877, 6965.809570> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <4607.828125, 334.236877, 6965.809570> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <4607.828125, 334.236877, 6965.809570> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <4607.828125, 334.236877, 6965.809570>
+SCRIPT       : Enoch::Weather::Overcast:: ( 9.06755 )  overcast: 0.520454
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 9.06755 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.11859 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain:: ( 9.41809 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 9.72255 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 9.85927 ) 0.702908
+SCRIPT       : ALPMS: spawning mission: caVehicles
+SCRIPT       : ALPMS: trying spawning on position: <8989.549805, 340.599792, 4331.890137>
+SCRIPT       : ALPMS: spawning mission on position: <8989.549805, 340.599792, 4331.890137> was successfull
+SCRIPT       : ALPMS: mission caVehicles - <8989.549805, 340.599792, 4331.890137> - spawning loot
+SCRIPT       : ALPMS: mission caVehicles - <8989.549805, 340.599792, 4331.890137> - loot spawned successfully
+SCRIPT       : ALPMS: mission caVehicles - <8989.549805, 340.599792, 4331.890137> - spawning structures
+SCRIPT       : ALPMS: mission caVehicles - <8989.549805, 340.599792, 4331.890137> - structures spawned successfully
+SCRIPT       : ALPMS: mission caVehicles - <8989.549805, 340.599792, 4331.890137> - spawning vehicles
+SCRIPT       : ALPMS: mission caVehicles - <8989.549805, 340.599792, 4331.890137> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission caVehicles - <8989.549805, 340.599792, 4331.890137> - spawning NPC
+SCRIPT       : ALPMS: mission caVehicles - <8989.549805, 340.599792, 4331.890137> - NPC spawned successfully
+SCRIPT       : ALPMS: mission caVehicles was spawned on : <8989.549805, 340.599792, 4331.890137>
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 10.1985 ) 0 -> 0.971148
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 10.3802 ) 0.97014 -> 0.874557
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 10.572 ) 0.874557 -> 0.862117
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 10.6787 ) 0.863101 -> 0.888137
+SCRIPT       : Enoch::Weather::Overcast:: ( 10.7373 )  overcast: 0.972021
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 10.7373 ) 0.875666
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 10.7954 ) 0.888137 -> 0.939323
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 10.9855 ) 0.939323 -> 0.80987
+SCRIPT       : Enoch::Weather::Rain:: ( 11.1839 ) 0.811577
+SCRIPT       : Enoch::Weather::Rain:: ( 11.5364 ) 0
+SCRIPT       : Magazine mag = NULL
 SCRIPT       : SERVER MESSAGE: You are playing on Vagrants Paradise. Don't be a dick, don't glitch or hack.
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 16.3107 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 16.6102 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 16.9097 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain:: ( 11.7048 ) 0.351811
+SCRIPT       : Enoch::Weather::Rain:: ( 11.8215 ) 0.272723
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 11.9499 ) 0.0803308 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 12.2494 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 12.5489 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 12.552 )  overcast: 0.571285
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 12.552 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 12.8483 ) 0
+SCRIPT       : SERVER MESSAGE: Are you still alive? Keep alive our server too. Support our server through donations if you like:)
+SCRIPT       : Enoch::Weather::Rain:: ( 13.166 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 13.3128 ) 0.255657
+SCRIPT       : Enoch::Weather::Rain:: ( 13.6156 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 13.7556 ) 0.337455
+SCRIPT       : Enoch::Weather::Rain:: ( 13.869 ) 0.147502
 SCRIPT       : ALPMS: spawning mission: rHeliCrash
-SCRIPT       : ALPMS: trying spawning on position: <7088.905273, 277.536835, 5616.130371>
-SCRIPT       : ALPMS: spawning mission on position: <7088.905273, 277.536835, 5616.130371> was successfull
-SCRIPT       : ALPMS: mission rHeliCrash - <7088.905273, 277.536835, 5616.130371> - spawning loot
-SCRIPT       : ALPMS: mission rHeliCrash - <7088.905273, 277.536835, 5616.130371> - loot spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <7088.905273, 277.536835, 5616.130371> - spawning structures
-SCRIPT       : ALPMS: mission rHeliCrash - <7088.905273, 277.536835, 5616.130371> - structures spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <7088.905273, 277.536835, 5616.130371> - spawning vehicles
-SCRIPT       : ALPMS: mission rHeliCrash - <7088.905273, 277.536835, 5616.130371> - vehicles spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash - <7088.905273, 277.536835, 5616.130371> - spawning NPC
-SCRIPT       : ALPMS: mission rHeliCrash - <7088.905273, 277.536835, 5616.130371> - NPC spawned successfully
-SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <7088.905273, 277.536835, 5616.130371>
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 17.2092 ) 0 -> 0
-SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 17.5087 ) 0 -> 0
+SCRIPT       : ALPMS: trying spawning on position: <10770.838867, 314.381775, 5033.983398>
+SCRIPT       : ALPMS: spawning mission on position: <10770.838867, 314.381775, 5033.983398> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <10770.838867, 314.381775, 5033.983398> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <10770.838867, 314.381775, 5033.983398>
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <8360.750977, 275.847168, 5494.712402>
+SCRIPT       : ALPMS: spawning mission on position: <8360.750977, 275.847168, 5494.712402> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <8360.750977, 275.847168, 5494.712402> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <8360.750977, 275.847168, 5494.712402> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <8360.750977, 275.847168, 5494.712402> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <8360.750977, 275.847168, 5494.712402> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <8360.750977, 275.847168, 5494.712402> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <8360.750977, 275.847168, 5494.712402> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <8360.750977, 275.847168, 5494.712402> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <8360.750977, 275.847168, 5494.712402> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <8360.750977, 275.847168, 5494.712402>
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <10066.341797, 298.049103, 7019.535645>
+SCRIPT       : ALPMS: spawning mission on position: <10066.341797, 298.049103, 7019.535645> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <10066.341797, 298.049103, 7019.535645> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <10066.341797, 298.049103, 7019.535645> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <10066.341797, 298.049103, 7019.535645> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <10066.341797, 298.049103, 7019.535645> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <10066.341797, 298.049103, 7019.535645> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <10066.341797, 298.049103, 7019.535645> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <10066.341797, 298.049103, 7019.535645> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <10066.341797, 298.049103, 7019.535645> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <10066.341797, 298.049103, 7019.535645>
+SCRIPT       : Enoch::Weather::Rain:: ( 14.0391 ) 0.107966
+SCRIPT       : Enoch::Weather::Overcast:: ( 14.2984 )  overcast: 0.741044
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 14.2984 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 14.3518 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 14.4569 ) 0.362623
+SCRIPT       : Enoch::Weather::Rain:: ( 14.5602 ) 0.321951
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 14.7503 ) 0.103497 -> 0
 
