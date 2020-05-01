@@ -1,0 +1,34 @@
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enoch\TheCommunityServer\crash_2020-05-01_08-03-48.log started at 01.05. 10:29:15
+
+
+
+------------------------------------
+R16RK4U17-3, 01.05 2020 10:29:15
+
+[desync] HandleInputData man=SurvivorM_Niki:011 CANNOT move cmd=SYNC_MOVE src={ type=CARGO item=SparkPlug:017518 parent=RussianVsr2Pants:012505 idx=0 row=4 col=0 f=false } dst={ type=CARGO item=SparkPlug:017518 parent=MSFC_TacticalBelt_MulticamBlack:021676 idx=0 row=6 col=3 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:486
+scripts/4_World/systems\inventory\dayzplayerinventory.c:391
+
+Runtime mode
+CLI params: port 2402 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage;@SIX-DayZ-Auto-Run; config D:\DayZServers\TheCommunity_enoch\TheCommunityDZ.cfg profiles TheCommunityServer BEPath D:\DayZServers\TheCommunity_enoch\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
+
+------------------------------------
+R16RK4U17-3, 01.05 2020 10:29:19
+
+[desync] HandleInputData man=SurvivorM_Niki:011 CANNOT swap cmd=SWAP src1={ type=CARGO item=RussianVsr2Pants:024866 parent=MSFC_TacticalBelt_MulticamBlack:021676 idx=0 row=4 col=4 f=false } dst1={ type=ATTACHMENT item=RussianVsr2Pants:024866 parent=SurvivorM_Niki:011 slot=5612719 } | src2={ type=ATTACHMENT item=RussianVsr2Pants:012505 parent=SurvivorM_Niki:011 slot=5612719 } dst2={ type=CARGO item=RussianVsr2Pants:012505 parent=MSFC_TacticalBelt_MulticamBlack:021676 idx=0 row=4 col=4 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:643
+scripts/4_World/systems\inventory\dayzplayerinventory.c:391
+
+Runtime mode
+CLI params: port 2402 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage;@SIX-DayZ-Auto-Run; config D:\DayZServers\TheCommunity_enoch\TheCommunityDZ.cfg profiles TheCommunityServer BEPath D:\DayZServers\TheCommunity_enoch\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
