@@ -4576,4 +4576,675 @@ SCRIPT       : ALPMS: mission rHeliCrash - <7796.510742, 255.153091, 7870.704590
 SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <7796.510742, 255.153091, 7870.704590>
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 14.2277 ) 0 -> 0
 SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 14.5272 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 14.8266 ) 0 -> 0
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <3826.167236, 459.681396, 725.191772>
+SCRIPT       : ALPMS: spawning mission on position: <3826.167236, 459.681396, 725.191772> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <3826.167236, 459.681396, 725.191772> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <3826.167236, 459.681396, 725.191772> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <3826.167236, 459.681396, 725.191772> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <3826.167236, 459.681396, 725.191772> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <3826.167236, 459.681396, 725.191772> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <3826.167236, 459.681396, 725.191772> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <3826.167236, 459.681396, 725.191772> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <3826.167236, 459.681396, 725.191772> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <3826.167236, 459.681396, 725.191772>
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 15.1261 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 15.3295 )  overcast: 0.156432
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 15.3295 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 15.4256 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 15.7251 ) 0 -> 0
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <12284.845703, 297.547119, 6532.125488>
+SCRIPT       : ALPMS: spawning mission on position: <12284.845703, 297.547119, 6532.125488> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <12284.845703, 297.547119, 6532.125488> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <12284.845703, 297.547119, 6532.125488> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <12284.845703, 297.547119, 6532.125488> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <12284.845703, 297.547119, 6532.125488> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <12284.845703, 297.547119, 6532.125488> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <12284.845703, 297.547119, 6532.125488> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <12284.845703, 297.547119, 6532.125488> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <12284.845703, 297.547119, 6532.125488> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <12284.845703, 297.547119, 6532.125488>
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 16.0246 ) 0 -> 0
+SCRIPT       : SERVER MESSAGE: You are playing on Vagrants Paradise. Don't be a dick, don't glitch or hack.
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 16.3241 ) 0 -> 0
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 16.6236 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 16.9231 ) 0 -> 0
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <4873.035156, 374.009003, 5679.072754>
+SCRIPT       : ALPMS: spawning mission on position: <4873.035156, 374.009003, 5679.072754> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <4873.035156, 374.009003, 5679.072754> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <4873.035156, 374.009003, 5679.072754> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <4873.035156, 374.009003, 5679.072754> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <4873.035156, 374.009003, 5679.072754> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <4873.035156, 374.009003, 5679.072754> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <4873.035156, 374.009003, 5679.072754> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <4873.035156, 374.009003, 5679.072754> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <4873.035156, 374.009003, 5679.072754> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <4873.035156, 374.009003, 5679.072754>
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 17.2226 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 17.5221 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 17.6477 )  overcast: 0.211722
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 17.6477 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 17.8216 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 18.1211 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 18.4205 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain:: ( 18.72 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 18.8434 ) 0.143503
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 19.1777 ) 0 -> 0.969677
+SCRIPT       : SERVER MESSAGE: Are you still alive? Keep alive our server too. Support our server through donations if you like:)
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 19.3177 ) 0.969677 -> 0.844972
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 19.4795 ) 0.844972 -> 0.918833
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 20.2309 ) 0.918833 -> 0.916941
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 21.0512 ) 0.918813 -> 0.829933
+SCRIPT       : Enoch::Weather::Overcast:: ( 21.6791 )  overcast: 0.900076
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 21.6791 ) 0.832738
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 21.7015 ) 0.829933 -> 0.928941
+SCRIPT       : Enoch::Weather::Rain:: ( 22.3617 ) 0.928321
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 0.436731 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 2.23368 ) 0 -> 0
+SCRIPT       : SERVER MESSAGE: You are playing on Vagrants Paradise. Don't be a dick, don't glitch or hack.
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 4.03063 ) 0 -> 0
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <6357.467285, 324.827271, 5393.447754>
+SCRIPT       : ALPMS: spawning mission on position: <6357.467285, 324.827271, 5393.447754> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <6357.467285, 324.827271, 5393.447754> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <6357.467285, 324.827271, 5393.447754> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <6357.467285, 324.827271, 5393.447754> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <6357.467285, 324.827271, 5393.447754> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <6357.467285, 324.827271, 5393.447754> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <6357.467285, 324.827271, 5393.447754> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <6357.467285, 324.827271, 5393.447754> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <6357.467285, 324.827271, 5393.447754> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <6357.467285, 324.827271, 5393.447754>
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 4.92432 ) 0 -> 0
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 5.22381 ) 0 -> 0
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:1471279667
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : bool m_HasPlayerData = 0
+SCRIPT       : array<string> Roles = 0x000000006accc2e0 {'everyone'}
+SCRIPT       : string str =  '[TRADER] SEND DATA TO PLAYER'
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 5.5233 ) 0 -> 0
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <2639.861328, 326.411438, 6405.301758>
+SCRIPT       : ALPMS: spawning mission on position: <2639.861328, 326.411438, 6405.301758> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <2639.861328, 326.411438, 6405.301758> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <2639.861328, 326.411438, 6405.301758> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <2639.861328, 326.411438, 6405.301758> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <2639.861328, 326.411438, 6405.301758> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <2639.861328, 326.411438, 6405.301758> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <2639.861328, 326.411438, 6405.301758> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <2639.861328, 326.411438, 6405.301758> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <2639.861328, 326.411438, 6405.301758> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <2639.861328, 326.411438, 6405.301758>
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <12300.630859, 287.649933, 4292.416504>
+SCRIPT       : ALPMS: spawning mission on position: <12300.630859, 287.649933, 4292.416504> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <12300.630859, 287.649933, 4292.416504> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <12300.630859, 287.649933, 4292.416504> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <12300.630859, 287.649933, 4292.416504> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <12300.630859, 287.649933, 4292.416504> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <12300.630859, 287.649933, 4292.416504> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <12300.630859, 287.649933, 4292.416504> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <12300.630859, 287.649933, 4292.416504> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <12300.630859, 287.649933, 4292.416504> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <12300.630859, 287.649933, 4292.416504>
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionUnpackBox<9cc6ef0> item=AmmoBox_357_20Rnd:08192
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_357_20Rnd:08192 parent=SurvivorM_Mirek:011 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_357<7df69500> count=20
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionUnpackBox<9cc6ef0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionUnpackBox<9cc6ef0> item=AmmoBox_12gaSlug_10Rnd:014311
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_12gaSlug_10Rnd:014311 parent=SurvivorM_Mirek:011 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_12gaSlug<7df6d010> count=10
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionUnpackBox<9cc6ef0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionUnpackBox<9cc6ef0> item=AmmoBox_357_20Rnd:024269
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_357_20Rnd:024269 parent=SurvivorM_Mirek:011 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_357<7df6a220> count=20
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionUnpackBox<9cc6ef0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Overcast:: ( 5.8145 )  overcast: 0.084579
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 5.8145 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 5.8228 ) 0 -> 0
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=Rope:012012
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=WaterBottle:019577
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionDrink<9cc25d0> item=WaterBottle:019577
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDrink<9cc25d0> item=WaterBottle:019577
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.12229 ) 0 -> 0
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.42178 ) 0 -> 0
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <9537.379883, 243.375977, 6346.113770>
+SCRIPT       : ALPMS: spawning mission on position: <9537.379883, 243.375977, 6346.113770> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <9537.379883, 243.375977, 6346.113770> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <9537.379883, 243.375977, 6346.113770> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <9537.379883, 243.375977, 6346.113770> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <9537.379883, 243.375977, 6346.113770> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <9537.379883, 243.375977, 6346.113770> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <9537.379883, 243.375977, 6346.113770> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <9537.379883, 243.375977, 6346.113770> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <9537.379883, 243.375977, 6346.113770> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <9537.379883, 243.375977, 6346.113770>
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.72128 ) 0 -> 0
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.02077 ) 0 -> 0
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.32027 ) 0 -> 0
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.61976 ) 0 -> 0
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <9935.674805, 231.076431, 5458.304199>
+SCRIPT       : ALPMS: spawning mission on position: <9935.674805, 231.076431, 5458.304199> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <9935.674805, 231.076431, 5458.304199> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <9935.674805, 231.076431, 5458.304199> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <9935.674805, 231.076431, 5458.304199> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <9935.674805, 231.076431, 5458.304199> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <9935.674805, 231.076431, 5458.304199> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <9935.674805, 231.076431, 5458.304199> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <9935.674805, 231.076431, 5458.304199> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <9935.674805, 231.076431, 5458.304199> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <9935.674805, 231.076431, 5458.304199>
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.91925 ) 0 -> 0
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=MediumTent:016953
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.21875 ) 0 -> 0
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionPlaceObject<9837290> item=hardigg_Mung:014727
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionPlaceObject<9837290> item=hardigg_Mung:014727
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionCloseDoors<9cc7df0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionCloseDoors<9cc7df0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionDeployObject<9839510> item=MediumTent:016953
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDeployObject<9839510> item=MediumTent:016953
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionDeployObject<9839510> item=sleepingbag_red_mung:013715
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT    (E): NULL pointer to instance
+Class:      'DayZPlayerInventory'
+Function: 'HandleInputData'
+Stack trace:
+scripts/4_World/systems\inventory\dayzplayerinventory.c:446
+scripts/4_World/systems\inventory\dayzplayerinventory.c:357
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT    (E): NULL pointer to instance
+Class:      'ActionDeployObject'
+Function: 'OnEndServer'
+Stack trace:
+ModularVestSystem/scripts/4_World/armorrack_actiondeployobject.c:5
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:437
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:36
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDeployObject<9839510> item=null
+SCRIPT       : Enoch::Weather::Overcast:: ( 8.40567 )  overcast: 0.295642
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.40567 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.51824 ) 0 -> 0
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionEatFruit<9cc2530> item=Tomato:016426
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionEatFruit<9cc2530> item=Tomato:016426
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:21
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:2818385
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=jaakari_tan_mung:023164
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=zeroy_fishing_backpack_brown:017651
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=BBP_Bedding:016888
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionPlaceObject<9837290> item=hardigg_Mung:014727
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionPlaceObject<9837290> item=hardigg_Mung:014727
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItemToHands<9cc8610> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.81773 ) 0 -> 0
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionDeployObject<9839510> item=MediumTent:013412
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDeployObject<9839510> item=MediumTent:013412
+SCRIPT       : SERVER MESSAGE: You are playing on Vagrants Paradise. Don't be a dick, don't glitch or hack.
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : SERVER MESSAGE: Are you still alive? Keep alive our server too. Support our server through donations if you like:)
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionCloseDoors<9cc7df0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionCloseDoors<9cc7df0> item=null
+SCRIPT       : Enoch::Weather::Rain:: ( 9.11722 ) 0
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : Enoch::Weather::Rain:: ( 9.26729 ) 0.39079
+SCRIPT       : Enoch::Weather::Rain:: ( 9.41068 ) 0.521982
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : Enoch::Weather::Rain:: ( 9.53406 ) 0.210773
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpen<d1e7010> item=OP_watch:024722
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpen<d1e7010> item=OP_watch:024722
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain:: ( 9.66745 ) 0.726065
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionCheckIdentity<9cc72b0> item=null
+SCRIPT       : Enoch::Weather::Rain:: ( 9.80917 ) 0.720996
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionCheckIdentity<9cc72b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionCheckPulse<9cc9790> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionCheckPulse<9cc9790> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionCheckIdentity<9cc72b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionCheckIdentity<9cc72b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started DC_ActionOpenBankingMenu<9cca730> item=null
+SCRIPT       : [DC_Banking]		Player with PlainID: 76561198027114659 and Name: Survivor: Request for banking account data -> data was sent
+SCRIPT       : [DC_Banking]		Player with PlainID: 76561198027114659 and Name: Survivor opened the banking menu
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end DC_ActionOpenBankingMenu<9cca730> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [DC_Banking]		Player with PlainID: 76561198027114659 and Name: Survivor: Request to withraw 10000
+SCRIPT       : [DC_Banking]		Player with PlainID: 76561198027114659 and Name: Survivor: Max owned currency before withdrawal = 1000000, owned currency before withdrawal = 10000
+SCRIPT       : [DC_Banking]		Player with PlainID: 76561198027114659 and Name: Survivor: 10000 has been removed from the banking account
+SCRIPT       : [DC_Banking]		Player with PlainID: 76561198027114659 and Name: Survivor: Max owned currency after withdrawal = 1000000, owned currency after withdrawal = 0
+SCRIPT       : Enoch::Weather::Rain:: ( 9.98759 ) 0.272951
+SCRIPT       : [action] SurvivorM_Mirek:011 started DC_ActionOpenBankingMenu<9cca730> item=null
+SCRIPT       : [DC_Banking]		Player with PlainID: 76561198027114659 and Name: Survivor: Request for banking account data -> data was sent
+SCRIPT       : [DC_Banking]		Player with PlainID: 76561198027114659 and Name: Survivor opened the banking menu
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end DC_ActionOpenBankingMenu<9cca730> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionCheckIdentity<9cc72b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionCheckIdentity<9cc72b0> item=null
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : Enoch::Weather::Rain:: ( 10.1093 ) 0.736399
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionCheckIdentity<9cc72b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionCheckIdentity<9cc72b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Overcast:: ( 10.2666 )  overcast: 0.83889
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 10.2666 ) 0
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionWorldCraft<9cc27b0> item=MSFCMilkSgushenkaCan:09546
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=MSFCMilkSgushenkaCan:09546 parent=SurvivorM_Mirek:011 }
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionWorldCraft<9cc27b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionEatCan<9cc5910> item=MSFCMilkSgushenkaCan_Opened:017804
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionEatCan<9cc5910> item=MSFCMilkSgushenkaCan_Opened:017804
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain:: ( 10.4584 ) 0
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenLocker<9ccaeb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenLocker<9ccaeb0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionCloseLocker<9ccaa50> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionCloseLocker<9ccaa50> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : Enoch::Weather::Rain:: ( 10.6502 ) 0.697092
+SCRIPT       : string str =  '[TRADER] Player: (Survivor) IOMuJAAK4yhu6hvx9yUvLaoMCQBU0x3dyBsWmV1Dj40= bought Tactical Belt(MSFC_TacticalBeltLite_ATACSAU)'
+SCRIPT       : Enoch::Weather::Rain:: ( 10.7819 ) 0.53221
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : Enoch::Weather::Rain:: ( 10.917 ) 0.231568
+SCRIPT       : string str =  '[TRADER] Player: (Survivor) IOMuJAAK4yhu6hvx9yUvLaoMCQBU0x3dyBsWmV1Dj40= bought Ops-Core Helmet(MSFCOpsCoreATACSAU)'
+SCRIPT       : string str =  '[TRADER] Player: (Survivor) IOMuJAAK4yhu6hvx9yUvLaoMCQBU0x3dyBsWmV1Dj40= bought Holster(MSFCPlateHolsterATACSAU)'
+SCRIPT       : Enoch::Weather::Rain:: ( 11.0203 ) 0.560647
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : string str =  '[TRADER] Player: (Survivor) IOMuJAAK4yhu6hvx9yUvLaoMCQBU0x3dyBsWmV1Dj40= bought Canteen(MSFC_BottlePouch_ATACSAU)'
+SCRIPT       : Enoch::Weather::Rain:: ( 11.1788 ) 0.621265
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=fannypack_camo_mung:014886
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain:: ( 11.3221 ) 0.602515
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=GorkaHelmet:013949
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=fannypack_camo_mung:014886
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain:: ( 11.4439 ) 0.308066
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : Enoch::Weather::Rain:: ( 11.6406 ) 0.637581
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <7796.510742, 255.153091, 7870.704590>
+SCRIPT       : ALPMS: spawning mission on position: <7796.510742, 255.153091, 7870.704590> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <7796.510742, 255.153091, 7870.704590> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <7796.510742, 255.153091, 7870.704590> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <7796.510742, 255.153091, 7870.704590> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <7796.510742, 255.153091, 7870.704590> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <7796.510742, 255.153091, 7870.704590> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <7796.510742, 255.153091, 7870.704590> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <7796.510742, 255.153091, 7870.704590> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <7796.510742, 255.153091, 7870.704590> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <7796.510742, 255.153091, 7870.704590>
+SCRIPT       : string str =  '[TRADER] Player: (Survivor) IOMuJAAK4yhu6hvx9yUvLaoMCQBU0x3dyBsWmV1Dj40= bought Assault Vest(MSFCSmershVestATACSAU)'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=MSFCSmershVestATACSAU:014030
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=PressVest_LightBlue:025422
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : string str =  '[TRADER] Player: (Survivor) IOMuJAAK4yhu6hvx9yUvLaoMCQBU0x3dyBsWmV1Dj40= bought Utility Buttpack(MSFCSmershBagATACSAU)'
+SCRIPT       : Enoch::Weather::Rain:: ( 11.7657 ) 0.794112
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain:: ( 12.1098 ) 0
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : Enoch::Weather::Overcast:: ( 12.2516 )  overcast: 0.779873
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 12.2516 ) 0.230625
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionWorldCraft<9cc27b0> item=Machete:018978
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionWorldCraft<9cc27b0> item=Machete:018978
+SCRIPT       : Enoch::Weather::Rain:: ( 12.2916 ) 0.295273
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=TacticalShirt_Tan:024987
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : Enoch::Weather::Rain:: ( 12.4383 ) 0.70982
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionWorldCraft<9cc27b0> item=Machete:018978
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionWorldCraft<9cc27b0> item=Machete:018978
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : m_Player.m_HealthLevel:0
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionOpenDoors<9cc9470> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionOpenDoors<9cc9470> item=null
+SCRIPT       : Enoch::Weather::Rain:: ( 12.5717 ) 0.287057
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <6220.048340, 268.144135, 6929.438477>
+SCRIPT       : ALPMS: spawning mission on position: <6220.048340, 268.144135, 6929.438477> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <6220.048340, 268.144135, 6929.438477> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <6220.048340, 268.144135, 6929.438477> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <6220.048340, 268.144135, 6929.438477> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <6220.048340, 268.144135, 6929.438477> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <6220.048340, 268.144135, 6929.438477> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <6220.048340, 268.144135, 6929.438477> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <6220.048340, 268.144135, 6929.438477> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <6220.048340, 268.144135, 6929.438477> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <6220.048340, 268.144135, 6929.438477>
+SCRIPT       : ALPMS: spawning mission: rHeliCrash
+SCRIPT       : ALPMS: trying spawning on position: <9593.343750, 231.530533, 8950.186523>
+SCRIPT       : ALPMS: spawning mission on position: <9593.343750, 231.530533, 8950.186523> was successfull
+SCRIPT       : ALPMS: mission rHeliCrash - <9593.343750, 231.530533, 8950.186523> - spawning loot
+SCRIPT       : ALPMS: mission rHeliCrash - <9593.343750, 231.530533, 8950.186523> - loot spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <9593.343750, 231.530533, 8950.186523> - spawning structures
+SCRIPT       : ALPMS: mission rHeliCrash - <9593.343750, 231.530533, 8950.186523> - structures spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <9593.343750, 231.530533, 8950.186523> - spawning vehicles
+SCRIPT       : ALPMS: mission rHeliCrash - <9593.343750, 231.530533, 8950.186523> - vehicles spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash - <9593.343750, 231.530533, 8950.186523> - spawning NPC
+SCRIPT       : ALPMS: mission rHeliCrash - <9593.343750, 231.530533, 8950.186523> - NPC spawned successfully
+SCRIPT       : ALPMS: mission rHeliCrash was spawned on : <9593.343750, 231.530533, 8950.186523>
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionWorldCraft<9cc27b0> item=Machete:018978
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionWorldCraft<9cc27b0> item=Machete:018978
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 12.7384 ) 0.276055 -> 0
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionWorldCraft<9cc27b0> item=Rag:012543
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionWorldCraft<9cc27b0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionWorldCraft<9cc27b0> item=Machete:018978
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionWorldCraft<9cc27b0> item=Machete:018978
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionTakeItem<9cc8bb0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionDropItemSimple<9cc2710> item=TacticalShirt_Tan:024987
+SCRIPT       : [action] SurvivorM_Mirek:011 started ActionWorldCraft<9cc27b0> item=Machete:018978
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:011 end ActionWorldCraft<9cc27b0> item=Machete:018978
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 13.0379 ) 0 -> 0
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:1471279667
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 13.3374 ) 0 -> 0
 
