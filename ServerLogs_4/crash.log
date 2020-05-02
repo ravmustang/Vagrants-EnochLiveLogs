@@ -1,0 +1,34 @@
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enoch\TheCommunityServer\crash_2020-05-01_20-01-23.log started at 01.05. 22:39:11
+
+
+
+------------------------------------
+R16RK4U17-3, 01.05 2020 22:39:11
+
+[desync] HandleInputData man=SurvivorM_Mirek:011 CANNOT do cmd=HAND_EVENT e={ HandEv id=TAKE pl=SurvivorM_Mirek:011 src={ type=CARGO item=Rag:025774 parent=zeroy_fishing_backpack_brown:018595 idx=0 row=0 col=3 f=true } }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:565
+scripts/4_World/systems\inventory\dayzplayerinventory.c:391
+
+Runtime mode
+CLI params: port 2402 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage;@SIX-DayZ-Auto-Run; config D:\DayZServers\TheCommunity_enoch\TheCommunityDZ.cfg profiles TheCommunityServer BEPath D:\DayZServers\TheCommunity_enoch\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
+
+------------------------------------
+R16RK4U17-3, 01.05 2020 22:39:21
+
+[desync] HandleInputData man=SurvivorM_Mirek:011 CANNOT do cmd=HAND_EVENT e={ HandEv id=TAKE pl=SurvivorM_Mirek:011 src={ type=CARGO item=BandageDressing:025631 parent=fannypack_camo_mung:022732 idx=0 row=1 col=1 f=true } }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:565
+scripts/4_World/systems\inventory\dayzplayerinventory.c:391
+
+Runtime mode
+CLI params: port 2402 mod @CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage;@SIX-DayZ-Auto-Run; config D:\DayZServers\TheCommunity_enoch\TheCommunityDZ.cfg profiles TheCommunityServer BEPath D:\DayZServers\TheCommunity_enoch\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
